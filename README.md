@@ -10,6 +10,13 @@ Notebooks included in the repository:
 
 ## Summarization Process 
 ![Summarization process](assets/Summary_pipeline.png)
+
+## Translation Marian Process 
+![Translation Marian process](assets/Spark_pipeline.png)
+
+## Translation T5 Process 
+![Translation T5 process](assets/T5_pipeline.png)
+
 ------------
 
 This repository is for the purposes of final project completion from the BUiD module "CSAI-401 Advanced Natural Language Processing (ANLP)".
