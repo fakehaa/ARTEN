@@ -1,5 +1,5 @@
 # ARTEN
-This repo contains all the code for arabic news summarization and translation to english 
+This repo contains all the code for Arabic news summarization and translation to English 
 -----------
 Notebooks included in the repository:
 1. Summarization Marian - This shows the steps taken to implement the SparkNLP Pipeline + Facebook BART Summarization model on a Flask app
